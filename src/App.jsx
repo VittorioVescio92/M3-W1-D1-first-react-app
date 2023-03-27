@@ -17,7 +17,7 @@ function App() {
         </a>
         <ButtonComponent content="premi qui" />
         <div>
-          <ImageComponent src="https://picsum.photos/200/300" alt="Immagine Random" />
+          <ImageComponent src="https://picsum.photos/450/300" alt="Immagine Random" />
         </div>
       </header>
       <ButtonComponent content="premi qui" />
